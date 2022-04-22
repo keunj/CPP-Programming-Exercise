@@ -1,0 +1,2 @@
+C:\c++프로그래밍\Week6_Homework1\Debug\Week6_Homework1.exe
+C:\c++프로그래밍\Week6_Homework1\Debug\Week6_Homework1.pdb
